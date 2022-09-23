@@ -760,7 +760,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #1230eb;
+    background-color: #c13b07;
 }
 
 .tc-white {
@@ -768,7 +768,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #1230eb;
+    background: #c13b07;
     color: #ffffff !important;
 }
 
@@ -1140,4 +1140,12 @@ img#logo-agence-deux {
 a.ltc-white.bold-link {
     display: block;
     padding: 15px;
+}
+
+#ag {
+    font-weight: bold;
+}
+
+#ag-a {
+    font-weight: 500;
 }
